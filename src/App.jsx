@@ -69,7 +69,7 @@ function App() {
         <h1>Declarative Demo</h1>
         <p>
           All of these top buttons do an array list sort, feel free to give them a try! <br></br>
-          Can you tell how they are different? When you are ready, click to see each ones code see for yourself.
+          Can you tell how they are different? When you are ready, click each ones code see for yourself.
         </p>
         <div className="interactable-container">
           <div className="demo-col">
